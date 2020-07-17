@@ -16,7 +16,7 @@
 		E4F6E34624C1762200C3AEB1 /* ShowDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F6E34524C1762200C3AEB1 /* ShowDetailViewController.swift */; };
 		E4F6E34824C1772200C3AEB1 /* PresentModallyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F6E34724C1772200C3AEB1 /* PresentModallyViewController.swift */; };
 		E4F6E34A24C1777700C3AEB1 /* PresentAsPopoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F6E34924C1777700C3AEB1 /* PresentAsPopoverViewController.swift */; };
-		E4F6E35024C18F4B00C3AEB1 /* Main.storyboard screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E34F24C18F4B00C3AEB1 /* Main.storyboard screenshot.png */; };
+		E4F6E35024C18F4B00C3AEB1 /* Main.storyboard_screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E34F24C18F4B00C3AEB1 /* Main.storyboard_screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		E4F6E34524C1762200C3AEB1 /* ShowDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowDetailViewController.swift; sourceTree = "<group>"; };
 		E4F6E34724C1772200C3AEB1 /* PresentModallyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentModallyViewController.swift; sourceTree = "<group>"; };
 		E4F6E34924C1777700C3AEB1 /* PresentAsPopoverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentAsPopoverViewController.swift; sourceTree = "<group>"; };
-		E4F6E34F24C18F4B00C3AEB1 /* Main.storyboard screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Main.storyboard screenshot.png"; sourceTree = "<group>"; };
+		E4F6E34F24C18F4B00C3AEB1 /* Main.storyboard_screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.storyboard_screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +48,7 @@
 		E4E29A5524C0C95300FC67B0 = {
 			isa = PBXGroup;
 			children = (
+				E4F6E34F24C18F4B00C3AEB1 /* Main.storyboard_screenshot.png */,
 				E4E29A6024C0C95300FC67B0 /* SeguePractice */,
 				E4E29A5F24C0C95300FC67B0 /* Products */,
 			);
@@ -70,7 +71,6 @@
 				E4F6E34124C1691300C3AEB1 /* Views */,
 				E4E29A6C24C0C95300FC67B0 /* LaunchScreen.storyboard */,
 				E4E29A6F24C0C95300FC67B0 /* Info.plist */,
-				E4F6E34F24C18F4B00C3AEB1 /* Main.storyboard screenshot.png */,
 			);
 			path = SeguePractice;
 			sourceTree = "<group>";
@@ -154,7 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4E29A6E24C0C95300FC67B0 /* LaunchScreen.storyboard in Resources */,
-				E4F6E35024C18F4B00C3AEB1 /* Main.storyboard screenshot.png in Resources */,
+				E4F6E35024C18F4B00C3AEB1 /* Main.storyboard_screenshot.png in Resources */,
 				E4E29A6924C0C95300FC67B0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
