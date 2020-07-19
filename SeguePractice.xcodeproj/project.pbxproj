@@ -12,21 +12,18 @@
 		E4BDAFE724C43BBC00A13B5C /* UserDefaultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BDAFE624C43BBC00A13B5C /* UserDefaultsViewController.swift */; };
 		E4BDAFE924C4488F00A13B5C /* TextInputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BDAFE824C4488F00A13B5C /* TextInputViewController.swift */; };
 		E4BDAFEB24C44ACF00A13B5C /* TextResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BDAFEA24C44ACF00A13B5C /* TextResultViewController.swift */; };
+		E4BDAFED24C4593D00A13B5C /* page0_main page.png in Resources */ = {isa = PBXBuildFile; fileRef = E4BDAFEC24C4593D00A13B5C /* page0_main page.png */; };
+		E4BDAFEF24C4594600A13B5C /* page1_버튼 클릭을 통한 색상 변화_색상 선택.png in Resources */ = {isa = PBXBuildFile; fileRef = E4BDAFEE24C4594600A13B5C /* page1_버튼 클릭을 통한 색상 변화_색상 선택.png */; };
+		E4BDAFF124C4594C00A13B5C /* page1_버튼 클릭을 통한 색상 변화_색상 선택 결과.png in Resources */ = {isa = PBXBuildFile; fileRef = E4BDAFF024C4594C00A13B5C /* page1_버튼 클릭을 통한 색상 변화_색상 선택 결과.png */; };
+		E4BDAFF324C4595600A13B5C /* page2_UserDefaults를 통한 데이터 저장 및 불러오기.png in Resources */ = {isa = PBXBuildFile; fileRef = E4BDAFF224C4595600A13B5C /* page2_UserDefaults를 통한 데이터 저장 및 불러오기.png */; };
+		E4BDAFF524C4595C00A13B5C /* page2_UserDefaults를 통한 데이터 저장 및 불러오기_새로운 데이터 추가.png in Resources */ = {isa = PBXBuildFile; fileRef = E4BDAFF424C4595C00A13B5C /* page2_UserDefaults를 통한 데이터 저장 및 불러오기_새로운 데이터 추가.png */; };
+		E4BDAFF724C4597300A13B5C /* page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 입력.png in Resources */ = {isa = PBXBuildFile; fileRef = E4BDAFF624C4597300A13B5C /* page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 입력.png */; };
+		E4BDAFF924C4597C00A13B5C /* page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 결과.png in Resources */ = {isa = PBXBuildFile; fileRef = E4BDAFF824C4597C00A13B5C /* page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 결과.png */; };
 		E4E29A6224C0C95300FC67B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4E29A6124C0C95300FC67B0 /* AppDelegate.swift */; };
 		E4E29A6424C0C95300FC67B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4E29A6324C0C95300FC67B0 /* SceneDelegate.swift */; };
 		E4E29A6624C0C95300FC67B0 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4E29A6524C0C95300FC67B0 /* MainViewController.swift */; };
 		E4E29A6924C0C95300FC67B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4E29A6724C0C95300FC67B0 /* Main.storyboard */; };
 		E4E29A6E24C0C95300FC67B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4E29A6C24C0C95300FC67B0 /* LaunchScreen.storyboard */; };
-		E4F6E35024C18F4B00C3AEB1 /* Main.storyboard.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E34F24C18F4B00C3AEB1 /* Main.storyboard.png */; };
-		E4F6E35B24C1996800C3AEB1 /* page1_pageControl_1.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E35224C1996800C3AEB1 /* page1_pageControl_1.png */; };
-		E4F6E35C24C1996800C3AEB1 /* page1_pageControl_2.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E35324C1996800C3AEB1 /* page1_pageControl_2.png */; };
-		E4F6E35D24C1996800C3AEB1 /* page6_seguePresentAsPopover.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E35424C1996800C3AEB1 /* page6_seguePresentAsPopover.png */; };
-		E4F6E35E24C1996800C3AEB1 /* page5_seguePresentModally.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E35524C1996800C3AEB1 /* page5_seguePresentModally.png */; };
-		E4F6E35F24C1996800C3AEB1 /* page4_segueShowDetail.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E35624C1996800C3AEB1 /* page4_segueShowDetail.png */; };
-		E4F6E36024C1996800C3AEB1 /* page7_dismiss&unwindPractice.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E35724C1996800C3AEB1 /* page7_dismiss&unwindPractice.png */; };
-		E4F6E36124C1996800C3AEB1 /* page1_pageControl_3.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E35824C1996800C3AEB1 /* page1_pageControl_3.png */; };
-		E4F6E36224C1996800C3AEB1 /* page3_segueShow.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E35924C1996800C3AEB1 /* page3_segueShow.png */; };
-		E4F6E36324C1996800C3AEB1 /* page2_tabBar.png in Resources */ = {isa = PBXBuildFile; fileRef = E4F6E35A24C1996800C3AEB1 /* page2_tabBar.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +32,13 @@
 		E4BDAFE624C43BBC00A13B5C /* UserDefaultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsViewController.swift; sourceTree = "<group>"; };
 		E4BDAFE824C4488F00A13B5C /* TextInputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextInputViewController.swift; sourceTree = "<group>"; };
 		E4BDAFEA24C44ACF00A13B5C /* TextResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextResultViewController.swift; sourceTree = "<group>"; };
+		E4BDAFEC24C4593D00A13B5C /* page0_main page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page0_main page.png"; sourceTree = "<group>"; };
+		E4BDAFEE24C4594600A13B5C /* page1_버튼 클릭을 통한 색상 변화_색상 선택.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page1_버튼 클릭을 통한 색상 변화_색상 선택.png"; sourceTree = "<group>"; };
+		E4BDAFF024C4594C00A13B5C /* page1_버튼 클릭을 통한 색상 변화_색상 선택 결과.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page1_버튼 클릭을 통한 색상 변화_색상 선택 결과.png"; sourceTree = "<group>"; };
+		E4BDAFF224C4595600A13B5C /* page2_UserDefaults를 통한 데이터 저장 및 불러오기.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page2_UserDefaults를 통한 데이터 저장 및 불러오기.png"; sourceTree = "<group>"; };
+		E4BDAFF424C4595C00A13B5C /* page2_UserDefaults를 통한 데이터 저장 및 불러오기_새로운 데이터 추가.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page2_UserDefaults를 통한 데이터 저장 및 불러오기_새로운 데이터 추가.png"; sourceTree = "<group>"; };
+		E4BDAFF624C4597300A13B5C /* page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 입력.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 입력.png"; sourceTree = "<group>"; };
+		E4BDAFF824C4597C00A13B5C /* page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 결과.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 결과.png"; sourceTree = "<group>"; };
 		E4E29A5E24C0C95300FC67B0 /* SeguePractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeguePractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4E29A6124C0C95300FC67B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E4E29A6324C0C95300FC67B0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,16 +46,6 @@
 		E4E29A6824C0C95300FC67B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E4E29A6D24C0C95300FC67B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4E29A6F24C0C95300FC67B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E4F6E34F24C18F4B00C3AEB1 /* Main.storyboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.storyboard.png; sourceTree = "<group>"; };
-		E4F6E35224C1996800C3AEB1 /* page1_pageControl_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page1_pageControl_1.png; sourceTree = "<group>"; };
-		E4F6E35324C1996800C3AEB1 /* page1_pageControl_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page1_pageControl_2.png; sourceTree = "<group>"; };
-		E4F6E35424C1996800C3AEB1 /* page6_seguePresentAsPopover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page6_seguePresentAsPopover.png; sourceTree = "<group>"; };
-		E4F6E35524C1996800C3AEB1 /* page5_seguePresentModally.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page5_seguePresentModally.png; sourceTree = "<group>"; };
-		E4F6E35624C1996800C3AEB1 /* page4_segueShowDetail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page4_segueShowDetail.png; sourceTree = "<group>"; };
-		E4F6E35724C1996800C3AEB1 /* page7_dismiss&unwindPractice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page7_dismiss&unwindPractice.png"; sourceTree = "<group>"; };
-		E4F6E35824C1996800C3AEB1 /* page1_pageControl_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page1_pageControl_3.png; sourceTree = "<group>"; };
-		E4F6E35924C1996800C3AEB1 /* page3_segueShow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page3_segueShow.png; sourceTree = "<group>"; };
-		E4F6E35A24C1996800C3AEB1 /* page2_tabBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page2_tabBar.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,16 +113,13 @@
 		E4F6E35124C1985400C3AEB1 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				E4F6E34F24C18F4B00C3AEB1 /* Main.storyboard.png */,
-				E4F6E35224C1996800C3AEB1 /* page1_pageControl_1.png */,
-				E4F6E35324C1996800C3AEB1 /* page1_pageControl_2.png */,
-				E4F6E35824C1996800C3AEB1 /* page1_pageControl_3.png */,
-				E4F6E35A24C1996800C3AEB1 /* page2_tabBar.png */,
-				E4F6E35924C1996800C3AEB1 /* page3_segueShow.png */,
-				E4F6E35624C1996800C3AEB1 /* page4_segueShowDetail.png */,
-				E4F6E35524C1996800C3AEB1 /* page5_seguePresentModally.png */,
-				E4F6E35424C1996800C3AEB1 /* page6_seguePresentAsPopover.png */,
-				E4F6E35724C1996800C3AEB1 /* page7_dismiss&unwindPractice.png */,
+				E4BDAFEC24C4593D00A13B5C /* page0_main page.png */,
+				E4BDAFEE24C4594600A13B5C /* page1_버튼 클릭을 통한 색상 변화_색상 선택.png */,
+				E4BDAFF024C4594C00A13B5C /* page1_버튼 클릭을 통한 색상 변화_색상 선택 결과.png */,
+				E4BDAFF224C4595600A13B5C /* page2_UserDefaults를 통한 데이터 저장 및 불러오기.png */,
+				E4BDAFF424C4595C00A13B5C /* page2_UserDefaults를 통한 데이터 저장 및 불러오기_새로운 데이터 추가.png */,
+				E4BDAFF624C4597300A13B5C /* page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 입력.png */,
+				E4BDAFF824C4597C00A13B5C /* page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 결과.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -191,18 +182,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4F6E35C24C1996800C3AEB1 /* page1_pageControl_2.png in Resources */,
-				E4F6E35F24C1996800C3AEB1 /* page4_segueShowDetail.png in Resources */,
-				E4F6E35D24C1996800C3AEB1 /* page6_seguePresentAsPopover.png in Resources */,
-				E4F6E36224C1996800C3AEB1 /* page3_segueShow.png in Resources */,
-				E4F6E35E24C1996800C3AEB1 /* page5_seguePresentModally.png in Resources */,
-				E4F6E36324C1996800C3AEB1 /* page2_tabBar.png in Resources */,
-				E4F6E36024C1996800C3AEB1 /* page7_dismiss&unwindPractice.png in Resources */,
+				E4BDAFF924C4597C00A13B5C /* page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 결과.png in Resources */,
 				E4E29A6E24C0C95300FC67B0 /* LaunchScreen.storyboard in Resources */,
-				E4F6E35B24C1996800C3AEB1 /* page1_pageControl_1.png in Resources */,
-				E4F6E35024C18F4B00C3AEB1 /* Main.storyboard.png in Resources */,
+				E4BDAFEF24C4594600A13B5C /* page1_버튼 클릭을 통한 색상 변화_색상 선택.png in Resources */,
 				E4E29A6924C0C95300FC67B0 /* Main.storyboard in Resources */,
-				E4F6E36124C1996800C3AEB1 /* page1_pageControl_3.png in Resources */,
+				E4BDAFF724C4597300A13B5C /* page3_화면 A에서 입력한 값을 화면 B로 이동하여 출력하기_텍스트 입력.png in Resources */,
+				E4BDAFF324C4595600A13B5C /* page2_UserDefaults를 통한 데이터 저장 및 불러오기.png in Resources */,
+				E4BDAFF524C4595C00A13B5C /* page2_UserDefaults를 통한 데이터 저장 및 불러오기_새로운 데이터 추가.png in Resources */,
+				E4BDAFF124C4594C00A13B5C /* page1_버튼 클릭을 통한 색상 변화_색상 선택 결과.png in Resources */,
+				E4BDAFED24C4593D00A13B5C /* page0_main page.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
